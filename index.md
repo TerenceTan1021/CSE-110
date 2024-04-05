@@ -68,7 +68,7 @@ I love Ice Cream ;-;
       
 **My Profile Picture**
 
-![Picture fromt the movie "The legend of Hei"](TheLegendofHei.png)
+![Picture fromt the movie "The legend of Hei"](image/TheLegendofHei.png)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
