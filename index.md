@@ -21,9 +21,9 @@
   4. Hotdog
   5. Ice Cream
 
-'''
+```
 print("Hello World")
-'''
+```
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 
