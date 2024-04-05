@@ -1,5 +1,16 @@
 
 # Terence Tan's USER INFORMATION
+**Task for this Page**
+- [x] Headings
+- [x] Styling text
+- [x] Quoting text
+- [x] Quoting code
+- [x] External Links
+- [x] Section Links
+- [ ] Relative links
+- [x] Ordered and Unordered Lists
+- [x] Task List
+--------------------------------------------------------------------------------------------
 ## Information about me
 Hello, I am a second-year Computer-Science student at The University of California, San Diego. I was born in San Bernardino, Victorville. As a Programmer, I love to learn about how to make games and am currently aimming to become a game dev some point in the future, or go into cyber security. Outside of work and school, Here are some of the stuff about what I do in my life.
 
