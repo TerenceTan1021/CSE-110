@@ -1,26 +1,42 @@
 
 # Terence Tan's USER INFORMATION
-**Task List**
+## Information about me
+Hello, I am a second-year Computer-Science student at The University of California, San Diego. I was born in San Bernardino, VictorVille. Here are some of the stuff about what I do in my life.
 
-- [x] Heading
-- [x] Styling Test
-- [x] Quoting Text
-- [x] Quoting Code
-- [ ] External Links
-- [x] Section Links
-- [ ] relative Links
-- [x] Ordered and Unordered Lists
-- [x] Task list
-       
-> quote text :/
+**Hobbies**
+- Gym
+- Drawing
+- Guitar(beginner)
+- Graphic Design
+- coding
 
-**My Profile Picture**
+```
+# Python (not too much)
+print("Hello World")
 
-![Picture fromt the movie "The legend of Hei"](TheLegendofHei.png)
+// C++ (main)
+include <iostream>
+using namespace std;
+int main(){
+       cout << "Hello World" << endl;
+}
+
+// Java
+System.out.println("Hello World");
+
+<!-- Html -->
+# Hello world
+
+// Css
+
+```
+
+I run on this quote every day
+> "Strive to Pursue
 
 **Education**
 - VVHS 2018-2022
-- UCSD 2022-2026
+- UCSD(Computer Science, B.S) 2022-Present
 
 **Top 5 Food**
   1. Ice Cream
@@ -29,9 +45,11 @@
   4. Hotdog
   5. Ice Cream
 
-```
-print("Hello World")
-```
+I love Ice Cream ;-;
+
+**My Profile Picture**
+
+![Picture fromt the movie "The legend of Hei"](TheLegendofHei.png)
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 
