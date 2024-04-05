@@ -12,8 +12,10 @@
 - [x] Task list
        
 > quote text :/
-**My Profile Pidture**
-[!Picture fromt the movie "The legend of Hei"](ThelegendofHei.png)
+
+**My Profile Picture**
+[!Picture fromt the movie "The legend of Hei"](TheLegendofHei.png)
+
 **Education**
 - VVHS 2018-2022
 - UCSD 2022-2026
