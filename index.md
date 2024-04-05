@@ -10,10 +10,13 @@
 - [ ] relative Links
 - [x] Ordered and Unordered Lists
 - [x] Task list
+      
 > quote text :/
+
 **Education**
 - VVHS 2018-2022
 - UCSD 2022-2026
+
 **Top 5 Food**
   1. Ice Cream
   2. Pizza
