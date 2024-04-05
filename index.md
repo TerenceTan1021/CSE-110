@@ -44,7 +44,7 @@ System.out.println("Hello World");
 ```
 
 I run on this quote every day
-> "Strive to Pursue
+> "Strive to Pursue"
 
 **Education**
 - VVHS 2018-2022
