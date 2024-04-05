@@ -47,9 +47,17 @@ I run on this quote every day
 
 I love Ice Cream ;-;
 
+**Spring 2024 classes**
+
+- [ ] CSE 110
+- [ ] CSE 105
+- [ ] CSE 101
+- [ ] CHIN BD
+      
 **My Profile Picture**
 
 ![Picture fromt the movie "The legend of Hei"](TheLegendofHei.png)
+
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 
