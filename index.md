@@ -1,6 +1,7 @@
 
 # Terence Tan's USER INFORMATION
 **Task List**
+
 - [x] Heading
 - [x] Styling Test
 - [x] Quoting Text
@@ -14,7 +15,8 @@
 > quote text :/
 
 **My Profile Picture**
-[!Picture fromt the movie "The legend of Hei"](TheLegendofHei.png)
+
+![Picture fromt the movie "The legend of Hei"](TheLegendofHei.png)
 
 **Education**
 - VVHS 2018-2022
