@@ -49,10 +49,10 @@ I love Ice Cream ;-;
 
 **Spring 2024 classes**
 
-- [ ] CSE 110
-- [ ] CSE 105
-- [ ] CSE 101
-- [ ] CHIN BD
+- [ ] CSE 110        (_In Progress_)
+- [ ] CSE 105        (_In Progress_)
+- [ ] CSE 101        (_In Progress_)
+- [ ] CHIN BD        (_In Progress_)
       
 **My Profile Picture**
 
