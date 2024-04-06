@@ -1,5 +1,6 @@
 
 # Terence Tan's USER INFORMATION
+
 **Task for this Page**
 - [x] Headings
 - [x] Styling text
@@ -7,7 +8,7 @@
 - [x] Quoting code
 - [x] External Links
 - [x] Section Links
-- [ ] Relative links
+- [x] Relative links
 - [x] Ordered and Unordered Lists
 - [x] Task List
       
@@ -67,9 +68,11 @@ I love Ice Cream ;-;
 - [ ] CHIN BD        (_In Progress_)
       
 **My Profile Picture**
+This the profile picture that I use for most of my accounts, It is from the movie _"The Legend of Hei"_
 
 ![Picture fromt the movie "The legend of Hei"](image/TheLegendofHei.png)
 
+(Yes I did copy from the reference, but I know how it is used)
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 
