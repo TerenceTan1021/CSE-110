@@ -11,6 +11,7 @@ Getting to know the basics of using github, learning about VScode UI, and Markdo
 **Terence's Information**
 
 [Information of Terence Tan](index.md)
+
 [ScreenShot for Part 2](Lab-1/screenshot.md)
 
 ---------------------------------------------------------------------------------------------
