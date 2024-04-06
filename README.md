@@ -1,5 +1,6 @@
 # CSE-110 Labs 
-This is a repository for CSE 110 Spring 2024's Labs seperated by the number
+
+> This is a repository for CSE 110 Spring 2024's Labs seperated by the number
 ---------------------------------------------------------------------------------------------
 ## Lab_1:
 ---------------------------------------------------------------------------------------------
