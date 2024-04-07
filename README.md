@@ -14,6 +14,8 @@ Getting to know the basics of using github, learning about VScode UI, and Markdo
 
 [ScreenShot for Part 2](Lab-1/ScreenShots.md)
 
+[Link to the GitHub Page](https://terencetan1021.github.io/CSE-110-SP2024/Lab-1/)
+
 ---------------------------------------------------------------------------------------------
 ## Lab_2
 -----------------------------------------------------------------------------------------------
