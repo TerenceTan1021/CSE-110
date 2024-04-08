@@ -15,7 +15,7 @@
       
 --------------------------------------------------------------------------------------------
 ## Information about me
-Hello, I am a second-year Computer-Science student at The University of California, San Diego. I was born in San Bernardino, Victorville. As a Programmer, I love to learn about how to make games and am currently aimming to become a game dev some point in the future, or go into cyber security. Outside of work and school, Here are some of the stuff about what I do in my life.
+Hello, I am a second-year Computer-Science student at The University of California, San Diego. As a Programmer, I love to learn about how to make games and am currently aimming to become a game dev some point in the future, or go into cyber security. Outside of work and school, Here are some of the stuff about what I do in my life.
 
 **Hobbies**
 - Gym
