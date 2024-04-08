@@ -38,10 +38,8 @@ int main(){
 // Java
 System.out.println("Hello World");
 
-<!-- Html -->
+<!-- Html & CSS--> (currently learning)
 # Hello world
-
-// Css
 
 ```
 
