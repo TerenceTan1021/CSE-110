@@ -15,7 +15,7 @@
       
 --------------------------------------------------------------------------------------------
 ## Information about me
-Hello, I am a second-year Computer-Science student at The University of California, San Diego. As a Programmer, I love to learn about how to make games and am currently aimming to become a game dev some point in the future, or go into cyber security. Outside of work and school, Here are some of the stuff about what I do in my life.
+Hello, I am a second-year Computer-Science student at The University of California, San Diego. As a Programmer, I love to learn about how to make games and am currently aimming to become a game dev some point in the future, or go into cyber security. I don't really consider m,myself a expert programmer, but what I am the most good at is developing an idea or picture, which kind of loops in with my artistic side. Outside of work and school, Here are some of the stuff about what I do in my life.
 
 **Hobbies**
 - Gym
@@ -38,8 +38,10 @@ int main(){
 // Java
 System.out.println("Hello World");
 
-<!-- Html & CSS--> (currently learning)
+<!-- Html & CSS & Java Script--> (currently learning)
 # Hello world
+
+I am also familiar with Data structure and algorithms
 
 ```
 
